@@ -1,5 +1,4 @@
 <?php
-// add condition that you add a ? if they usr doesnt add one
 
 function magic8Ball()
 {
@@ -29,5 +28,6 @@ magic8Ball();
 magic8Ball();
 magic8Ball();
 magic8Ball();
+// add conditional func that adds a "?" if the user doesnt add one after their q
 
-// try adding more possibilities for answers to accomodate for questions that have more broad answer, rather than the usual yes/no type answers
+// try adding more possibilities for answers to accommodate for questions that have more broad answer, rather than the usual yes/no type answers

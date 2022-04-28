@@ -7,7 +7,7 @@ function magic8Ball()
   echo "\n" . $question . "\n" . "hmmm...";
 
   // generate random int between 0 & 19
-  $magic_Answer = rand(0, 6);
+  $magic_Answer = rand(0, 19);
   // echo $magic_Answer;
   echo "\n";
 

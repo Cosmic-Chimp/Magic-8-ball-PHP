@@ -1,5 +1,5 @@
 <?php
-//silly change
+
 function magic8Ball()
 {
   echo "\nAsk me a question and be quick about it..." . "\n";
